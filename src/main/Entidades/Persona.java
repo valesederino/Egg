@@ -18,6 +18,7 @@ public class Persona {
     private int Imc;
     private int estadoedad;
     private String domicilio;
+    private String pruebaparagit;
     
    
     //Constructores
