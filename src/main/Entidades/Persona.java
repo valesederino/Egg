@@ -17,6 +17,7 @@ public class Persona {
     private Double altura;
     private int Imc;
     private int estadoedad;
+    private String domicilio;
     
    
     //Constructores
